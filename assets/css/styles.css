@@ -4,6 +4,10 @@ html, body {
     color: white;
 }
 
+.row {
+    --bs-gutter-x: 0;
+}
+
 .title {
     text-align: center;
     background-color: black;

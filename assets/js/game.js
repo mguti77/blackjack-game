@@ -1,7 +1,7 @@
 // Module pattern
 
 const module = (() => {
-    'use strict'
+    'use strict';
 
     /**
      * C = Clubs
